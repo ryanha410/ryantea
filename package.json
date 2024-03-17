@@ -1,9 +1,10 @@
 {
   "name": "@ryan.ha410/ryantea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quest for tea.xyz",
   "main": "index.js",
   "author": "@ryan.ha410",
   "repository": "https://github.com/ryanha410/ryantea.git",
-  "license": "ISC"
+  "license": "MIT"
 }
+  
